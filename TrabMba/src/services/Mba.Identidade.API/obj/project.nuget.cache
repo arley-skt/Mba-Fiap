@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kU5+VAVRXF1UMgiKc5HKCvrY6yHuBIPT7NgE3cdIMbDDpCSE6OhRZ3MZUps3UhhE5s/oAbd0oHIgFQ5G80lKow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arley.ferreira\\Documents\\mba\\Mba-Fiap\\TrabMba\\src\\services\\Mba.Identidade.API\\Mba.Identidade.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arley.ferreira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\arley.ferreira\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\arley.ferreira\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\arley.ferreira\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\arley.ferreira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\arley.ferreira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
