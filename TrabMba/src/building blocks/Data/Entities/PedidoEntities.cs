@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
-namespace Mba.Pedido.API.Models
+namespace Data.Entities
 {
-    public class Pedido:BaseModel
+    public class PedidoEntities
     {
     }
 }

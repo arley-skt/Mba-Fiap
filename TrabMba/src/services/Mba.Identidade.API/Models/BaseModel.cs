@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Mba.Pedido.API.Models
+namespace Mba.Identidade.API.Models
 {
-    public class Pedido:BaseModel
+    public class BaseModel
     {
+        public int Id { get; set; }
     }
 }
